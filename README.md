@@ -1,12 +1,12 @@
 # 🌌 Particle Playground - Community Presets
 
-Welcome to the **Community Presets** repository! This is the official hub for sharing and discovering custom particle effects created with [Particle Playground](https://github.com/Devendra-Chaurasiya/Particle-PlayGround).
+Welcome to the **Community Presets** repository! This is the official hub for sharing and discovering custom particle effects created with Particle Playground.
 
 ## 🚀 How to Submit a Preset
 
 Contributing your own cool effects is easy! We use **GitHub Issues** as our database to keep things simple and accessible.
 
-1.  **Design your effect** in the [Particle Playground App](https://github.com/Devendra-Chaurasiya/Particle-PlayGround).
+1.  **Design your effect** in the [Particle Playground App](https://particle-play-ground.vercel.app/).
 2.  Click the **"Submit to Community"** button in the sidebar.
     *   *This will automatically copy your preset data and open a new Issue form for you.*
 3.  **Paste** the copied content into the Issue description.
